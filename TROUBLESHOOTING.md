@@ -101,3 +101,6 @@ Support for **Azure Entra ID-based authentication** in these scenarios is to be 
 
 By default, Azure MCP Server communicates with MCP Clients via standard I/O. Any logs output to standard I/O are subject to interpretation from the MCP Client. See [Logging](#logging) on how to view logs.
 
+
+
+
